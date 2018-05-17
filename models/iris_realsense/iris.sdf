@@ -550,7 +550,7 @@
 
 
 
-    <plugin name='realsense_plugin' filename='libRealSensePlugin.so'/>
+    <plugin name='realsense_plugin' filename='libgazebo_realsense_plugin.so'/>
 
     <link name='realsense_camera::link'>
       <inertial>
